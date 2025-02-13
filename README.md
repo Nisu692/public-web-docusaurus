@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://github.com/Nisu692/public-web-docusaurus/releases/tag/v1.0), a modern static website generator.
+This website is built using [Docusaurus 2](https://github.com/Nisu692/public-web-docusaurus/releases/tag/v2.0), a modern static website generator.
 
 ### Installation
 
